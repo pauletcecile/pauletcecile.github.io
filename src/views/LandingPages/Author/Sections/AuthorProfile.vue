@@ -33,17 +33,45 @@ onMounted(() => {
             <div
               class="col-lg-12 col-md-7 z-index-2 position-relative px-md-2 px-sm-5 mx-auto"
             >
-              <div
-                class="d-flex justify-content-between align-items-center mb-2"
-              >
-                <h2 class="mb-0">Peut-on amener des enfants ?</h2>
 
-              </div>
 
+     
+              <h4 class="mb-0">Comment venir ?</h4>
               <p class="text-lg mb-0">
-                Non.
-
+                A vous de choisir <br>- Le TGV en vous arretant a la gare TGV Saint-Raphael Valescure. <br>- L'avion avec l'aeroport de Nice qui est le plus proche et ensuite 1h de route.
               </p>
+              <br>
+
+              <h4 class="mb-0">Ou loger ?</h4>
+              <p class="text-lg mb-0">
+                Nous vous conseillons de loger a Saint-Raphael, acces facile depuis la gare TGV. Gros avantage: vous serez a cote pour venir profiter du brunch le lendemain. Il y aura le plus d'airbnb. Il y a des villages vacances.<br>Le lieu se situe a 20-30minutes de Saint-Raphael en voiture.
+              </p>
+              <br>
+
+              <h4 class="mb-0">Quel est le programme ?</h4>
+              <p class="text-lg mb-0">
+                Samedi : ca se passe a Roquebrune-sur-Argens a partir de XX heure - jusqu'au bout de la nuit <br>Dimanche: le brunch est a Saint-Raphael
+              </p>
+              <br>
+
+              <h4 class="mb-0">Ou est prevu le brunch le dimanche 16 juin ?</h4>
+              <p class="text-lg mb-0">
+                Welcome chez Pierre et Florence Duquesnoy ! <br>Rendez-vous a partir de 12h. <br>Nous vous accueillons le lendemain matin au 89 allee Saint Trophime, 83700 Saint-Raphael pour se remettre ensemble doucement de la veille. <br>Piscine sur place, prevoyez votre maillot de bain et serviette.
+              </p>
+              <br>
+
+              <h4 class="mb-0">Peut-on venir avec notre/nos enfant(s) ?</h4>
+              <p class="text-lg mb-0">
+                Il y a un point d'eau non-protege sur le lieu le soir, donc malheureusement vos petits loups doivent rester au chaud chez vous.
+              </p>
+              <br>
+
+              <h4 class="mb-0"> Des idees d'activites a faire autours si on prolonge le weekend ? </h4>
+              <p class="text-lg mb-0">
+                De une on vous le conseille et de deux, assurement. Il y en a un nombre incalculable! <br>- Pour la team glande, allez farnienter n'importe ou sur le bord de mer, plage - petite crique - base nature de Frejus. Tout est permis. <br>- Pour la team sportif, on vous recommande la randonnee des Trois Croix sur le Rocher de Roquebrune, une sessions escalade dans les gorges du Blavet ou tout chemin de randonnee dans l'Esterel. <br>- Pour la team culture, allez visiter Saint-Tropez (si si a cette periode vous pouvez esperer ne pas avoir trop de touristes!), la croisette a Nice ou la beaute de l'arriere pays a Saint Remy de Provence.
+              </p>
+              <br>
+
             </div>
           </div>
         </div>

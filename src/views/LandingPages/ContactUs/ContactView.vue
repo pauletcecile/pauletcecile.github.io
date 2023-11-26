@@ -63,55 +63,60 @@ onMounted(() => {
               </div>
               <div class="card-body">
                 <p class="pb-3">
-                  Pour confirmer votre présence à notre mariage, cliquez simplement le bouton ci-dessous. Si vous rencontrez des difficultés, envoyez-nous simplement un email à <b><a href="mailto:cecile.duquesnoy@gmail.com?subject=Je confirme ma présence !">cecile.duquesnoy@gmail.com</a></b> et/ou <b><a href="mailto:poinetp@gmail.com?subject=Je confirme ma présence !">poinetp@gmail.com</a></b>
+                  Pour confirmer votre présence à notre mariage, cliquez simplement le bouton ci-dessous et envoyez-nous un mot doux signé.
+                </p>
+                  <form id="contact-form" method="post" autocomplete="off" action="mailto:cecile.duquesnoy@gmail.com; poinetp@gmail.com?subject=Je confirme ma présence !">
+                  
+<div class="card-body p-0 my-0">
+  <!-- {%FOOTER_LINK} 
+  <div class="row">
+    <div class="col-md-6">
+      <MaterialInput
+        
+        class="input-group-static mb-4"
+        type="text"
+        label="Prénom"
+        placeholder="Antoine"
+        
+      />
+    </div>
+    <div class="col-md-6 ps-md-2">
+      <MaterialInput
+        class="input-group-static mb-4"
+        type="text"
+        label="Nom"
+        placeholder="Dupont"
+      />
+    </div>
+  </div>
+  <div class="form-group mb-0 mt-md-0 mt-4">
+    <MaterialTextArea
+      id="message"
+      class="input-group-static mb-4"
+      :rows="4"
+      placeholder="Grave stylé je viens direct!"
+      >Votre message</MaterialTextArea
+    >
+  </div>-->
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <MaterialButton
+        variant="gradient"
+        color="primary"
+        class="mt-0 mb-0"
+        
+        >Je confirme ma présence</MaterialButton
+      >
+    </div>
+  </div>
+</div>
+</form>
+
+<p>
+                  <br><br>N'hésitez pas à nous préciser si vous avez des contraintes ou allergies alimentaires, que notre chef puisse les prendre en compte. <br><br>Si vous rencontrez des difficultés, envoyez-nous simplement un email à <b><a href="mailto:cecile.duquesnoy@gmail.com?subject=Je confirme ma présence !">cecile.duquesnoy@gmail.com</a></b> et/ou <b><a href="mailto:poinetp@gmail.com?subject=Je confirme ma présence !">poinetp@gmail.com</a></b>
                 </p>
                 
-                <form id="contact-form" method="post" autocomplete="off" action="mailto:cecile.duquesnoy@gmail.com; poinetp@gmail.com?subject=Je confirme ma présence !">
 
-                  <div class="card-body p-0 my-3">
-                    <!-- {%FOOTER_LINK} 
-                    <div class="row">
-                      <div class="col-md-6">
-                        <MaterialInput
-                          
-                          class="input-group-static mb-4"
-                          type="text"
-                          label="Prénom"
-                          placeholder="Antoine"
-                          
-                        />
-                      </div>
-                      <div class="col-md-6 ps-md-2">
-                        <MaterialInput
-                          class="input-group-static mb-4"
-                          type="text"
-                          label="Nom"
-                          placeholder="Dupont"
-                        />
-                      </div>
-                    </div>
-                    <div class="form-group mb-0 mt-md-0 mt-4">
-                      <MaterialTextArea
-                        id="message"
-                        class="input-group-static mb-4"
-                        :rows="4"
-                        placeholder="Grave stylé je viens direct!"
-                        >Votre message</MaterialTextArea
-                      >
-                    </div>-->
-                    <div class="row">
-                      <div class="col-md-12 text-center">
-                        <MaterialButton
-                          variant="gradient"
-                          color="primary"
-                          class="mt-3 mb-0"
-                          
-                          >Je confirme ma présence</MaterialButton
-                        >
-                      </div>
-                    </div>
-                  </div>
-                </form>
               </div>
             </div>
           </div>

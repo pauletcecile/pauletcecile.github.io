@@ -17,9 +17,17 @@ import CenteredBlogCard from "../../../../examples/cards/blogCards/CenteredBlogC
             <div>
               <DefaultInfoCard
                 color="primary"
+                title="Organisez vite votre venue!"
+                description="Notre mariage aura lieu dans la pépiniere Tropicana Flore, au pied du Rocher de Roquebrune. No spoiler mais c'est bien le lieu que vous voyez juste au-dessus."
+              />
+            </div>
+
+            <div class="mt-5">
+              <DefaultInfoCard
+                color="primary"
                 icon="3d_rotation"
                 title="Un peu de contexte..."
-                description="Cliquez sur le bouton Play pour une expérience immersive au sein du rocher de roquebrune..."
+                description="Cliquez sur le bouton Play pour une expérience immersive au sein du Rocher de Roquebrune..."
               />
               
               <iframe class="mt-4" src="https://speckle.xyz/embed?stream=bb4ef73a98&autoload=false&hidecontrols=true&hidesidebar=true&hideselectioninfo=true&commentslideshow=true" width="100%" height="450" frameborder="0"></iframe>

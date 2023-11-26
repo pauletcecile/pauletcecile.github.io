@@ -59,7 +59,7 @@ onUnmounted(() => {
               Infos pratiques <span class="text-white"></span>
             </h1>
             <p class="lead mb-4 text-white opacity-8">
-              Retrouvez ici les infos pratiques concernant notre mariage
+              Retrouvez ici tous les détails et infos d'organisation concernant notre mariage
             </p>
 
             <!--<h6 class="text-white mb-2 mt-5">Find us on</h6>

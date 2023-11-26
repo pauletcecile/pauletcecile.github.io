@@ -75,7 +75,7 @@ var x = setInterval(function() {
               />
               <ExampleCard
                 classes="mt-5"
-                title="Aidez nous a réaliser notre rêve..."
+                title="Aidez nous à réaliser notre rêve..."
                 image="https://media3.giphy.com/media/TFIT9joWoHpE0hcxGh/giphy.gif?cid=ecf05e47xnpbapc2h27sq8g4qa361n7lmikt7cshrymvvi2j&ep=v1_gifs_search&rid=giphy.gif"
                 route="signin-basic"
               />
