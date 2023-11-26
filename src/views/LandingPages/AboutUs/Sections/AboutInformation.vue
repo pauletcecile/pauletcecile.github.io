@@ -18,7 +18,7 @@ import CenteredBlogCard from "../../../../examples/cards/blogCards/CenteredBlogC
               <DefaultInfoCard
                 color="primary"
                 title="Organisez vite votre venue!"
-                description="Notre mariage aura lieu dans la pépiniere Tropicana Flore, au pied du Rocher de Roquebrune. No spoiler mais c'est bien le lieu que vous voyez juste au-dessus."
+                description="Notre mariage aura lieu dans la pépiniere Tropicana Flore, au pied du Rocher de Roquebrune. No spoilr mais c'est bien le lieu que vous voyez juste au-dessus."
               />
             </div>
 
