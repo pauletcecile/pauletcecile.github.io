@@ -43,8 +43,8 @@ onUnmounted(() => {
 </script>
 <template>
   <DefaultNavbar
-
-    transparent
+   :sticky="false"
+   
   />
   <header class="bg-gradient-dark">
     <div
