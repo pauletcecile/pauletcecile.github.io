@@ -53,14 +53,16 @@ onUnmounted(() => {
   <Header>
     <div
       class="page-header min-vh-75"
-      :style="`background-image: url(https://drive.google.com/uc?export=view&id=177cayqBZ8y5EJYF5pCE7U3qh_OC16amf)`"
+      :style="`background-image: url(https://drive.google.com/uc?export=view&id=177cayqBZ8y5EJYF5pCE7U3qh_OC16amf)  `"
       loading="lazy"
     >
-      <div class="container">
+      <div  class="container">
         <div class="row">
-          <div class="col-lg-7 mt-n10  text-center mx-auto position-relative">
-            <h1
+          <div  class="col-lg-7 mt-n10  text-center mx-auto position-relative">
+            
+            <h1 
               class="text-black pt-3 mt-n5 me-2"
+              
               :style="{ display: 'inline-block ' }"
             >👰 Cécile & Paul 🤵
             </h1>
