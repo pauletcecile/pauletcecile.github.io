@@ -19,21 +19,19 @@ onMounted(() => {
   setMaterialInput();
 });
 </script>
-<template>
-          <DefaultNavbar 
+<template style="background-color:#33475b">
+          <DefaultNavbar
+          transparent 
           :sticky="false"
+          
           
 
         />
-  <div class="container position-sticky z-index-sticky top-0">
-    <div class="row">
-      <div class="col-12">
 
-        
-      </div>
-    </div>
-  </div>
-  <section>
+  <section :style="{
+                backgroundImage: `url(https://drive.google.com/uc?export=view&id=1ywoz6nLk29rgkjGfFtpFqBIrPfhljOho)`,
+                backgroundSize: '50%',
+              }">
     <div class="page-header min-vh-100">
       <div class="container">
         <div class="row">
@@ -42,10 +40,7 @@ onMounted(() => {
           >
             <div
               class="position-relative h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center"
-              :style="{
-                backgroundImage: `url(https://drive.google.com/uc?export=view&id=1ywoz6nLk29rgkjGfFtpFqBIrPfhljOho)`,
-                backgroundSize: 'cover',
-              }"
+
               loading="lazy"
             ></div>
           </div>

@@ -17,7 +17,7 @@ onMounted(() => {
 });
 </script>
 <template>
-  <DefaultNavbar  />
+  <DefaultNavbar transparent />
   <Header>
     <div
       class="page-header align-items-start min-vh-100"

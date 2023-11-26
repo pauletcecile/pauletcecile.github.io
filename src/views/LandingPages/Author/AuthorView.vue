@@ -14,7 +14,7 @@ import DefaultFooter from "../../../examples/footers/FooterDefault.vue";
 import image from "@/assets/img/city-profile.jpg";
 </script>
 <template>
-  <DefaultNavbar :sticky="false" />
+  <DefaultNavbar :sticky="false" transparent />
   <Header>
     <div
       class="page-header min-height-400"
