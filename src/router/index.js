@@ -32,22 +32,22 @@ const router = createRouter({
       component: PresentationView,
     },
     {
-      path: "/infos",
+      path: "/pages/landing-pages/about-us",
       name: "about",
       component: AboutView,
     },
     {
-      path: "/rsvp",
+      path: "/pages/landing-pages/contact-us",
       name: "contactus",
       component: ContactView,
     },
     {
-      path: "/faq",
+      path: "/pages/landing-pages/author",
       name: "author",
       component: AuthorView,
     },
     {
-      path: "/liste",
+      path: "/pages/landing-pages/basic",
       name: "signin-basic",
       component: SignInBasicView,
     },
