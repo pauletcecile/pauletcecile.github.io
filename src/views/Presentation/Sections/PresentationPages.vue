@@ -70,15 +70,16 @@ var x = setInterval(function() {
               <ExampleCard
                 class="shadow-lg"
                 title="RSVP - Je confirme ma présence !"
-                image="https://drive.google.com/uc?export=view&id=1ywoz6nLk29rgkjGfFtpFqBIrPfhljOho"
+                image="https://drive.google.com/uc?export=view&id=1sSVI1LYGWUtIHdSNPfFWu_MyxSvOWD5o"
                 route="contactus"
               />
               <ExampleCard
-                classes="mt-5"
-                title="Aidez nous à réaliser notre rêve..."
-                image="https://media3.giphy.com/media/TFIT9joWoHpE0hcxGh/giphy.gif?cid=ecf05e47xnpbapc2h27sq8g4qa361n7lmikt7cshrymvvi2j&ep=v1_gifs_search&rid=giphy.gif"
-                route="signin-basic"
+                classes="shadow-lg"
+                title="FAQ"
+                image="https://media4.giphy.com/media/d1E1YlkOTe4IfdNC/giphy.gif?cid=ecf05e47bsujhjpy8sp7tu1wpxiwmx6o634manwu1ja5opsc&ep=v1_gifs_search&rid=giphy.gif"
+                route="author"
               />
+
 
             </div>
           
@@ -91,12 +92,17 @@ var x = setInterval(function() {
                 route="about"
               />
               <ExampleCard
-                classes="shadow-lg"
-                title="FAQ"
-                image="https://media4.giphy.com/media/d1E1YlkOTe4IfdNC/giphy.gif?cid=ecf05e47bsujhjpy8sp7tu1wpxiwmx6o634manwu1ja5opsc&ep=v1_gifs_search&rid=giphy.gif"
-                route="author"
+                class="shadow-lg"
+                title="Programme"
+                image="https://media1.giphy.com/media/3orif75mohPKmHCPXG/giphy.gif?cid=ecf05e47p5mp43yrn91913lx242tkj5fztuep2xtm94j9evk&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+                route="programme"
               />
-
+              <ExampleCard
+                classes="mt-5"
+                title="Liste de mariage"
+                image="https://i.gifer.com/7dNw.gif"
+                route="signin-basic"
+              />
             </div>
           
         

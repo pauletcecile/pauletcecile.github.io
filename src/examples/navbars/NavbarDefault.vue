@@ -223,6 +223,12 @@ watch(
                       >
                         <span>Liste de mariage 🎁</span>
                       </RouterLink>
+                      <RouterLink
+                        :to="{ name: 'programme' }"
+                        class="dropdown-item border-radius-md"
+                      >
+                        <span>Programme 📅</span>
+                      </RouterLink>
                     </div>
                   </div>
                 </div>

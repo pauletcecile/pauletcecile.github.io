@@ -17,8 +17,8 @@ import image from "@/assets/img/city-profile.jpg";
   <DefaultNavbar :sticky="false" transparent />
   <Header>
     <div
-      class="page-header min-height-400"
-      :style="{ backgroundImage: `url(https://media.tenor.com/p4Qia37e8acAAAAi/faq.gif)` }"
+      class="page-header min-height-500"
+      :style="{ backgroundImage: `url(https://usagif.com/wp-content/uploads/gif/thinking-emoji-8.gif)` }"
       loading="lazy"
     >
       <span class="mask bg-gradient-dark opacity-8"></span>

@@ -23,7 +23,7 @@ onMounted(() => {
       class="page-header align-items-start min-vh-100"
       :style="{
         backgroundImage:
-          'url(https://i.gifer.com/7dNw.gif)'
+          'url(https://media1.giphy.com/media/3orif75mohPKmHCPXG/giphy.gif?cid=ecf05e47p5mp43yrn91913lx242tkj5fztuep2xtm94j9evk&ep=v1_gifs_search&rid=giphy.gif&ct=g)'
       }"
       loading="lazy"
     >
@@ -36,23 +36,30 @@ onMounted(() => {
                 class="card-header p-0 position-relative mt-n4 mx-3 z-index-2"
               >
                 <div
-                  class="bg-gradient-primary shadow-primary border-radius-lg py-3 pe-1"
+                  class="bg-gradient-info shadow-info border-radius-lg py-3 pe-1"
                 >
                   <h4
                     class="text-white font-weight-bolder text-center mt-2 mb-0"
                   >
-                  ✈️🌏🏔️🏝️
+                  Programme
                   </h4>
 
                 </div>
               </div>
               <div class="card-body">
-                Cette liste de mariage ne comporte finalement qu'un seul article...<br>
                 <br>
-                En effet, notre envie insatiable de voyage et d'aventure nous a mené à rêver d'un voyage en Nouvelle-Zélande. Vous pouvez nous aider à le réaliser :<br>
+                <h5>Samedi</h5>
+                Au Tropicana Flore<br>
+                • 16h - Arrivée des invités + rafraichissements<br>
+                • 16h30 - Cérémonie laïque<br>
+                • 17h30 - Cocktail + photos de groupe<br>
+                • 20h - Dîner sous la tente<br>
+                • 22h - Soirée dansante 🕺🏻
                 <br>
-                • via <a href="https://lydia-app.com/pots?id=83834-mariage-cecile-paul">ce lien Lydia</a> (si vous n'avez pas Lydia, vous pouvez nous faire un virement directement - un RIB vous sera communiqué par e-mail une fois que vous aurez confirmé votre présence.)<br>
-                • ou tout simplement en nous déposant une enveloppe dans l'urne le jour J !
+                <br>
+                <h5>Dimanche</h5>
+                Chez Pierre et Florence Duquesnoy<br>
+                • 11h - Brunch
               </div>
             </div>
           </div>

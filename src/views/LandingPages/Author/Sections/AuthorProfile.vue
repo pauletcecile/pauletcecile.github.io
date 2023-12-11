@@ -56,13 +56,13 @@ onMounted(() => {
 
               <h4 class="mb-0">Ou est prevu le brunch le dimanche 16 juin ?</h4>
               <p class="text-lg mb-0">
-                Welcome chez Pierre et Florence Duquesnoy ! <br>Rendez-vous a partir de 12h. <br>Nous vous accueillons le lendemain matin au 89 allee Saint Trophime, 83700 Saint-Raphael pour se remettre ensemble doucement de la veille. <br>Piscine sur place, prevoyez votre maillot de bain et serviette.
+                Bienvienue chez Pierre et Florence Duquesnoy ! <br>Rendez-vous a partir de 12h. <br>Nous vous accueillons le lendemain matin au 89 allee Saint Trophime, 83700 Saint-Raphael pour se remettre ensemble doucement de la veille. <br>Piscine sur place, prevoyez votre maillot de bain et serviette.
               </p>
               <br>
 
               <h4 class="mb-0">Peut-on venir avec notre/nos enfant(s) ?</h4>
               <p class="text-lg mb-0">
-                Il y a un point d'eau non-protege sur le lieu le soir, donc malheureusement vos petits loups doivent rester au chaud chez vous.
+                Nous avons choisi de privilégier nos amis et notre famille et nous ne serons pas en mesure d'accueillir les enfants dans de bonnes conditions (<b>pas de pièce prévue à cet effet</b> et <b>présence d'un point d'eau non protégé</b>). Merci de faire le maximum pour qu'ils soient gardés à la maison.
               </p>
               <br>
 
