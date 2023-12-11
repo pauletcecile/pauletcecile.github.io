@@ -18,7 +18,7 @@ import image from "@/assets/img/city-profile.jpg";
   <Header>
     <div
       class="page-header min-height-500"
-      :style="{ backgroundImage: `url(https://usagif.com/wp-content/uploads/gif/thinking-emoji-8.gif)` }"
+      :style="{ backgroundImage: `url(https://drive.google.com/uc?export=view&id=1oenrVN3HANJI0y0MJIlT_gPOHwYvttNG)` }"
       loading="lazy"
     >
       <span class="mask bg-gradient-dark opacity-8"></span>

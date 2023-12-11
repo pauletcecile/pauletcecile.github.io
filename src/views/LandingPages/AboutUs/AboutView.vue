@@ -82,7 +82,7 @@ onUnmounted(() => {
       </div>
     </div>
   </header>
-  <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n6">
+  <div class="blur card card-body shadow-xl mx-3 mx-md-4 mt-n6">
     <Information />
     <!--<AboutTeam />
     <Featuring />

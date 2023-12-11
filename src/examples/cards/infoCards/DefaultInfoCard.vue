@@ -37,7 +37,7 @@ export default {
 };
 </script>
 <template>
-  <div :class="`${col ? col : 'col-md-6'}`">
+  <div :class="`${col ? col : 'col-md-8'}`">
     <div v-bind="$attrs" class="info">
       <i
         v-if="icon"
