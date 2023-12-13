@@ -23,20 +23,20 @@ onMounted(() => {
       class="page-header align-items-start min-vh-100"
       :style="{
         backgroundImage:
-          'url(https://media1.giphy.com/media/3orif75mohPKmHCPXG/giphy.gif?cid=ecf05e47p5mp43yrn91913lx242tkj5fztuep2xtm94j9evk&ep=v1_gifs_search&rid=giphy.gif&ct=g)'
+          'url(https://drive.google.com/uc?export=view&id=1_KTAMz2S8_1nYY1yXJShgW4lKm3J5upm)'
       }"
       loading="lazy"
-    >
+    ><span class="mask bg-gradient-dark opacity-4"></span>
       <span class="mask opacity-0"></span>
       <div class="container my-auto">
         <div class="row">
-          <div class="col-lg-4 col-md-8 col-12 mx-auto">
+          <div class="col-lg-5 col-md-8 col-12 mx-auto">
             <div class="card z-index-0 fadeIn3 fadeInBottom">
               <div
                 class="card-header p-0 position-relative mt-n4 mx-3 z-index-2"
               >
                 <div
-                  class="bg-gradient-info shadow-info border-radius-lg py-3 pe-1"
+                  class="bg-gradient-primary shadow-primary border-radius-lg py-3 pe-1"
                 >
                   <h4
                     class="text-white font-weight-bolder text-center mt-2 mb-0"
@@ -47,19 +47,20 @@ onMounted(() => {
                 </div>
               </div>
               <div class="card-body">
-                <br>
-                <h5>Samedi</h5>
-                Au Tropicana Flore<br>
-                • 16h - Arrivée des invités + rafraichissements<br>
-                • 16h30 - Cérémonie laïque<br>
-                • 17h30 - Cocktail + photos de groupe<br>
-                • 20h - Dîner sous la tente<br>
+
+                <h5>Samedi 15 juin</h5>
+                
+                À Tropicana Flore<br>
+                • 16h - Arrivée rafraichissante<br>
+                • 16h30 - Cérémonie laïque 💍<br>
+                • 17h30 - Cocktail 🥂 + photos de groupe 📷<br>
+                • 20h - Dîner 🍽️<br>
                 • 22h - Soirée dansante 🕺🏻
                 <br>
                 <br>
-                <h5>Dimanche</h5>
+                <h5>Dimanche 16 juin</h5>
                 Chez Pierre et Florence Duquesnoy<br>
-                • 11h - Brunch
+                • 12h - Brunch
               </div>
             </div>
           </div>

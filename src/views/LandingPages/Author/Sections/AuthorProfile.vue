@@ -64,8 +64,8 @@ onMounted(() => {
 
               <h4 class="mb-0"> 🥾 Des idées d'activités a faire dans les environs si on prolonge le weekend ? </h4>
               <p class="text-lg mb-0">
-                De une on vous le conseille et de deux, assurement. Il y en a un nombre incalculable! <br>
-                🏖️ Pour la team glande, allez farnienter n'importe ou sur le bord de mer, plage - petite crique - base nature de Frejus. Tout est permis. <br>🎨 Pour la team culture, allez visiter Saint-Tropez (si si a cette periode vous pouvez esperer ne pas avoir trop de touristes!), la croisette a Nice ou la beaute de l'arriere pays a Saint Remy de Provence.
+                De une on vous le conseille et de deux, assurément. Il y en a un nombre incalculable! <br>
+                🏖️ Pour la team farniente, allez chiller n'importe ou sur le bord de mer, plage - petite crique - base nature de Frejus. Tout est permis. <br>🎨 Pour la team culture, allez visiter Saint-Tropez (si si a cette periode vous pouvez esperer ne pas avoir trop de touristes!), la croisette a Nice ou la beaute de l'arriere pays a Saint Remy de Provence.
                 <br>💪 Pour la team sportif, on vous recommande la randonnée des Trois Croix sur le Rocher de Roquebrune que vous pouvez entamer quasiment depuis le site, une session escalade dans les gorges du Blavet ou tout chemin de randonnée dans l'Esterel. 
               </p>
               <br>

@@ -58,7 +58,7 @@ onUnmounted(() => {
     >
       <div  class="container">
         <div class="row">
-          <div  class="col-lg-7 mt-n10  text-center mx-auto position-relative">
+          <div  class="col-lg-9 mt-n10  text-center mx-auto position-relative">
             
             <h1 
               class="text-black pt-3 mt-n5 me-2"
@@ -66,6 +66,7 @@ onUnmounted(() => {
               :style="{ display: 'inline-block ' }"
             >👰 Cécile & Paul 🤵
             </h1>
+            
             <h3>💞💗💞</h3>
           </div>
         </div>

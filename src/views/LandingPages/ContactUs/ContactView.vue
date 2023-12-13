@@ -121,12 +121,12 @@ onMounted(() => {
         <div class="container">
           <div class="row align-items-center justify-content-lg-between">
             <div class="col-12 col-md-6 my-auto">
-              <div
+              <!--<div
                 class="copyright text-center text-sm text-white text-lg-start"
               >
                 © {{ new Date().getFullYear() }}, made with
                 <i class="fa fa-heart" aria-hidden="true"></i> by Paul & Cécile.
-              </div>
+              </div>-->
             </div>
             <div class="col-12 col-md-6">
 

@@ -193,42 +193,53 @@ watch(
                 <div class="col-12 px-4 py-2">
                   <div class="row">
                     <div class="position-relative">
+
                       <RouterLink
                         :to="{ name: 'presentation' }"
                         class="dropdown-item border-radius-md"
                       >
                         <span>Home 💒</span>
                       </RouterLink>
-                      <RouterLink
-                        :to="{ name: 'about' }"
-                        class="dropdown-item border-radius-md"
-                      >
-                        <span>Infos pratiques ❕</span>
-                      </RouterLink>
+
+
                       <RouterLink
                         :to="{ name: 'contactus' }"
                         class="dropdown-item border-radius-md"
                       >
                         <span>RSVP 📧</span>
                       </RouterLink>
+
+                      <RouterLink
+                        :to="{ name: 'about' }"
+                        class="dropdown-item border-radius-md"
+                      >
+                        <span>Infos pratiques ❕</span>
+                      </RouterLink>
+
+
                       <RouterLink
                         :to="{ name: 'author' }"
                         class="dropdown-item border-radius-md"
                       >
                         <span>FAQ ❔</span>
                       </RouterLink>
-                      <RouterLink
-                        :to="{ name: 'signin-basic' }"
-                        class="dropdown-item border-radius-md"
-                      >
-                        <span>Liste de mariage 🎁</span>
-                      </RouterLink>
+
+
                       <RouterLink
                         :to="{ name: 'programme' }"
                         class="dropdown-item border-radius-md"
                       >
                         <span>Programme 📅</span>
                       </RouterLink>
+
+                      <RouterLink
+                        :to="{ name: 'signin-basic' }"
+                        class="dropdown-item border-radius-md"
+                      >
+                        <span>Liste de mariage 🎁</span>
+                      </RouterLink>
+
+
                     </div>
                   </div>
                 </div>

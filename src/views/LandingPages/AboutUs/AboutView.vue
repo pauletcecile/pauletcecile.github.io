@@ -51,7 +51,7 @@ onUnmounted(() => {
       class="page-header min-vh-75"
       :style="{ backgroundImage: `url(https://cdn0.mariages.net/vendor/3825/3_2/960/jpeg/97127b0e-a357-4219-a668-9cdb196ac198_3_73825.jpeg)` }"
     >
-      <span class="mask bg-gradient-dark opacity-6"></span>
+      <span class="mask bg-gradient-dark opacity-3"></span>
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center mx-auto my-auto">

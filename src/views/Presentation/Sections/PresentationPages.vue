@@ -40,8 +40,8 @@ var x = setInterval(function() {
       <div class="row">
         <div class="row text-center my-sm-5 mt-5">
           <div class="col-lg-6 mx-auto">
-            <h2 class="">🥳 Nous nous marions ! 🥳</h2>
-            <h1 class="">le 15 juin 2024</h1>
+            <h2 class="">Nous avons la joie de vous faire part de notre mariage ! 🥳</h2>
+            <h1 class="">RDV le 15 juin 2024</h1>
             ...ou aussi dans <b id="demo"></b> ⏳
             <br><br>
            
@@ -56,8 +56,9 @@ var x = setInterval(function() {
           <div class="position-sticky" style="top: 100px !important">
             <h2 id="demo"></h2>
             <h3>
-              En attendant patiemment 😴...
+              En attendant patiemment... 😎
             </h3>
+
             <h6 class="text-secondary font-weight-normal">
               ...retrouvez ici toutes les informations essentielles concernant l'événement le plus stylé de l'année !
             </h6>

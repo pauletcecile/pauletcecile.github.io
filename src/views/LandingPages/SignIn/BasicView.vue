@@ -49,10 +49,12 @@ onMounted(() => {
               <div class="card-body">
                 Cette liste de mariage ne comporte finalement qu'un seul article...<br>
                 <br>
-                En effet, notre envie insatiable de voyage et d'aventure nous a mené à rêver d'un voyage en Nouvelle-Zélande. Vous pouvez nous aider à le réaliser :<br>
+                En effet, notre envie insatiable de voyage et d'aventure nous a mené à rêver d'un voyage en Nouvelle-Zélande. <br>
                 <br>
-                • via <a href="https://lydia-app.com/pots?id=83834-mariage-cecile-paul" target="_blank">ce lien Lydia</a> (si vous n'avez pas Lydia, vous pouvez nous faire un virement directement - un RIB vous sera communiqué par e-mail une fois que vous aurez confirmé votre présence.)<br>
-                • ou tout simplement en nous déposant une enveloppe dans l'urne le jour J !
+                3 options s'offrent à vous si vous voulez nous aider à le réaliser :<br>
+                • via <b><a href="https://lydia-app.com/pots?id=83834-mariage-cecile-paul" target="_blank">ce lien Lydia</a></b><br>
+                • pour ceux qui n'ont pas Lydia : précisez-nous le dans votre confirmation de présence et nous vous enverrons tout simplement notre RIB.<br>
+                • ou tout simplement en nous déposant une enveloppe dans l'urne le jour J !<br>
               </div>
             </div>
           </div>

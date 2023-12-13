@@ -18,10 +18,10 @@ import image from "@/assets/img/city-profile.jpg";
   <Header>
     <div
       class="page-header min-height-500"
-      :style="{ backgroundImage: `url(https://drive.google.com/uc?export=view&id=1oenrVN3HANJI0y0MJIlT_gPOHwYvttNG)` }"
+      :style="{ backgroundImage: `url(https://drive.google.com/uc?export=view&id=1OLN3uYqU-hk8ZSe4RqfnC9UbSOtt93S0)` }"
       loading="lazy"
     >
-      <span class="mask bg-gradient-dark opacity-8"></span>
+      <span class="mask bg-gradient-dark opacity-3"></span>
     </div>
   </Header>
   <div class="card card-body blur shadow-blur mx-3 mx-md-4 mt-n6 mb-4">
