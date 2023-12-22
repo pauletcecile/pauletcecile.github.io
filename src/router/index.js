@@ -33,27 +33,27 @@ const router = createRouter({
       component: PresentationView,
     },
     {
-      path: "/pages/landing-pages/about-us",
+      path: "/infos-pratiques",
       name: "about",
       component: AboutView,
     },
     {
-      path: "/pages/landing-pages/contact-us",
+      path: "/RSVP",
       name: "contactus",
       component: ContactView,
     },
     {
-      path: "/pages/landing-pages/author",
+      path: "/FAQ",
       name: "author",
       component: AuthorView,
     },
     {
-      path: "/pages/landing-pages/basic",
+      path: "/liste-de-mariage",
       name: "signin-basic",
       component: SignInBasicView,
     },
     {
-      path: "/pages/landing-pages/programme",
+      path: "/programme",
       name: "programme",
       component: Programme,
     },

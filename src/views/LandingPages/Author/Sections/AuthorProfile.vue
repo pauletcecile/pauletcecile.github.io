@@ -39,7 +39,7 @@ onMounted(() => {
 
               <br>
 
-              <h4 class="mb-0">🥞 Où est prévu le brunch le dimanche 16 juin ?</h4>
+              <h4 class="mb-0">Où est prévu le brunch le dimanche 16 juin ?</h4>
               <p class="text-lg mb-0">
                 Très bonne question ;) !<br>
                 Nous vous accueillons le lendemain matin à partir de 12h chez Pierre et Florence Duquesnoy au <a href="https://maps.app.goo.gl/vcDW9yzEZFxokM7v9" target="_blank">89 allée Saint Trophime, 83700 Saint-Raphael</a> pour se remettre ensemble doucement de la veille. <br>
@@ -62,11 +62,11 @@ onMounted(() => {
               </p>
               <br>
 
-              <h4 class="mb-0"> 🥾 Des idées d'activités a faire dans les environs si on prolonge le weekend ? </h4>
+              <h4 class="mb-0"> 🥾 Des idées d'activités à faire dans les environs si on prolonge le weekend ? </h4>
               <p class="text-lg mb-0">
                 De une on vous le conseille et de deux, assurément. Il y en a un nombre incalculable! <br>
                 🏖️ Pour la team farniente, allez chiller n'importe ou sur le bord de mer, plage - petite crique - base nature de Frejus. Tout est permis. <br>🎨 Pour la team culture, allez visiter Saint-Tropez (si si a cette periode vous pouvez esperer ne pas avoir trop de touristes!), la croisette a Nice ou la beaute de l'arriere pays a Saint Remy de Provence.
-                <br>💪 Pour la team sportif, on vous recommande la randonnée des Trois Croix sur le Rocher de Roquebrune que vous pouvez entamer quasiment depuis le site, une session escalade dans les gorges du Blavet ou tout chemin de randonnée dans l'Esterel. 
+                <br>💪 Pour la team sportive, nous recommandons la randonnée des Trois Croix sur le Rocher de Roquebrune que vous pouvez entamer quasiment depuis le site, une session escalade dans les gorges du Blavet ou tout chemin de randonnée dans l'Esterel. 
               </p>
               <br>
               <iframe src="https://fatmap.com/routeid/3555781/depuis-tropicana-flore?fmid=cp" frameborder="" allowfullscreen="" width="100%" height="680"></iframe>

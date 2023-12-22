@@ -23,7 +23,7 @@ onMounted(() => {
       class="page-header align-items-start min-vh-100"
       :style="{
         backgroundImage:
-          'url(https://i.gifer.com/7dNw.gif)'
+          'url(https://drive.google.com/uc?export=view&id=1f3MkU_gH0E8E20gdshKnv4642-feyT6n)'
       }"
       loading="lazy"
     >

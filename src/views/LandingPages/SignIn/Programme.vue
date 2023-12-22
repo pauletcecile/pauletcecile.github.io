@@ -51,7 +51,7 @@ onMounted(() => {
                 <h5>Samedi 15 juin</h5>
                 
                 À Tropicana Flore<br>
-                • 16h - Arrivée rafraichissante<br>
+                • 16h - Arrivée rafraichissante 🍸<br>
                 • 16h30 - Cérémonie laïque 💍<br>
                 • 17h30 - Cocktail 🥂 + photos de groupe 📷<br>
                 • 20h - Dîner 🍽️<br>
