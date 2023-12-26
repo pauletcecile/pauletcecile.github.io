@@ -66,7 +66,7 @@ onMounted(() => {
               <p class="text-lg mb-0">
                 De une on vous le conseille et de deux, assurément. Il y en a un nombre incalculable! <br>
                 🏖️ Pour la team farniente, allez chiller n'importe ou sur le bord de mer, plage - petite crique - base nature de Frejus. Tout est permis. <br>🎨 Pour la team culture, allez visiter Saint-Tropez (si si a cette periode vous pouvez esperer ne pas avoir trop de touristes!), la croisette a Nice ou la beaute de l'arriere pays a Saint Remy de Provence.
-                <br>💪 Pour la team sportive, nous recommandons la randonnée des Trois Croix sur le Rocher de Roquebrune que vous pouvez entamer quasiment depuis le site, une session escalade dans les gorges du Blavet ou tout chemin de randonnée dans l'Esterel. 
+                <br>💪 Pour la team sportive, nous recommandons la randonnée des Trois Croix sur le Rocher de Roquebrune que vous pouvez entamer quasiment depuis le site, une session escalade soit dans les gorges du Blavet soit au Dramont, ou tout chemin de randonnée dans l'Esterel. 
               </p>
               <br>
               <iframe src="https://fatmap.com/routeid/3555781/depuis-tropicana-flore?fmid=cp" frameborder="" allowfullscreen="" width="100%" height="680"></iframe>
