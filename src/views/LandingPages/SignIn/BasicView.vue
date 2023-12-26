@@ -51,7 +51,7 @@ onMounted(() => {
                 <br>
                 En effet, notre envie insatiable de voyage et d'aventure nous a menés à rêver d'un voyage en Nouvelle-Zélande. <br>
                 <br>
-                3 options s'offrent à vous si vous voulez nous aider à le réaliser :<br>
+                3 options sont possibles pour nous aider à le réaliser :<br>
                 • pour ceux qui ont Lydia, via ce <b><a href="https://lydia-app.com/pots?id=83834-mariage-cecile-paul" target="_blank">lien</a></b><br>
                 • pour ceux qui n'ont pas Lydia : précisez-nous le dans votre confirmation de présence et nous vous enverrons notre RIB.<br>
                 • ou tout simplement en nous déposant une enveloppe dans l'urne le jour J !<br>
