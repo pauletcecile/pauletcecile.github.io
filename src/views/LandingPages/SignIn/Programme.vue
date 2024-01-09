@@ -24,6 +24,7 @@ onMounted(() => {
       :style="{
         backgroundImage:
           'url(https://drive.google.com/uc?export=view&id=1_KTAMz2S8_1nYY1yXJShgW4lKm3J5upm)'
+          //url('../../../dist/assets/src/assets/troptrop.jpg')
       }"
       loading="lazy"
     ><span class="mask bg-gradient-dark opacity-4"></span>

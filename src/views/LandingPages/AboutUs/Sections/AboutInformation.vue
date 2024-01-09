@@ -64,7 +64,7 @@ import CenteredBlogCard from "../../../../examples/cards/blogCards/CenteredBlogC
 
               <div>
               <br>
-              <h6>✈️ En avion, puis en voiture depuis l'aéroport de Nice Côte d'Azur</h6>
+              <h6>✈️ En avion, puis en voiture ou en TER (environ 1 heure de trajet) depuis l'aéroport de Nice Côte d'Azur</h6>
               <br>
               <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d185036.22433177952!2d6.751977598140093!3d43.560902940102544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x12cdd11897ae99f3%3A0x80532b1cc923c1b4!2sA%C3%A9roport%20Nice%20C%C3%B4te%20d&#39;Azur%20(NCE)%2C%20Rue%20Costes%20et%20Bellonte%2C%20Nice!3m2!1d43.659768899999996!2d7.2148214!4m5!1s0x12cea5e1b2d8976b%3A0x81218a6fd3ba0c3a!2sTropicana%20Events%2C%201074%20La%20Maurette%2C%2083520%20Roquebrune-sur-Argens!3m2!1d43.4466992!2d6.6187451!5e0!3m2!1sen!2sfr!4v1702309306770!5m2!1sen!2sfr" width="50%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               <br>
