@@ -9,7 +9,7 @@ import Header from "@/examples/Header.vue";
 import MaterialInput from "@/components/MaterialInput.vue";
 import MaterialSwitch from "@/components/MaterialSwitch.vue";
 import MaterialButton from "@/components/MaterialButton.vue";
-//import trop from "@/../dist/assets/troptrop2.jpg";
+import trop from "@/assets/img/site/troptrop2.jpg";
 
 // material-input
 import setMaterialInput from "@/assets/js/material-input";
@@ -24,8 +24,9 @@ onMounted(() => {
       class="page-header align-items-start min-vh-100"
       :style="{
         backgroundImage:
-          'url(https://drive.google.com/uc?export=view&id=1_KTAMz2S8_1nYY1yXJShgW4lKm3J5upm)'
-          //url(trop)
+          //'url(https://drive.google.com/uc?export=view&id=1_KTAMz2S8_1nYY1yXJShgW4lKm3J5upm)'
+          //url('../../../assets/img/site/troptrop2.jpg')
+          url('@/assets/img/site/troptrop2.jpg')
       }"
       loading="lazy"
     ><span class="mask bg-gradient-dark opacity-4"></span>
