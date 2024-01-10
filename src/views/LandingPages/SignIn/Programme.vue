@@ -24,9 +24,9 @@ onMounted(() => {
       class="page-header align-items-start min-vh-100"
       :style="{
         backgroundImage:
-          //'url(https://drive.google.com/uc?export=view&id=1_KTAMz2S8_1nYY1yXJShgW4lKm3J5upm)'
+          'url(https://drive.google.com/uc?export=view&id=1_KTAMz2S8_1nYY1yXJShgW4lKm3J5upm)'
           //url('../../../assets/img/site/troptrop2.jpg')
-          url('@/assets/img/site/troptrop2.jpg')
+          //url('@/assets/img/site/troptrop2.jpg')
       }"
       loading="lazy"
     ><span class="mask bg-gradient-dark opacity-4"></span>
