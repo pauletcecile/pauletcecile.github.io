@@ -60,7 +60,7 @@ onMounted(() => {
               </div>
               <div class="card-body">
                 <p class="pb-3">
-                  Pour confirmer votre présence à notre mariage, cliquez simplement le bouton ci-dessous et envoyez-nous un mot doux signé.
+                  Pour confirmer votre présence à notre mariage, cliquez simplement le bouton ci-dessous et envoyez-nous un mot doux signé avant le 1er mai.
                 </p>
                   <form id="contact-form" method="post" autocomplete="off" action="mailto:cecile.duquesnoy@gmail.com; poinetp@gmail.com?subject=Je confirme ma présence !">
                   
