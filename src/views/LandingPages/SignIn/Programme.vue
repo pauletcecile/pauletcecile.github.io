@@ -55,7 +55,7 @@ onMounted(() => {
                 
                 À Tropicana Flore<br>
                 • 16h - Arrivée rafraichissante 🍸<br>
-                • 16h30 - Cérémonie laïque 💍<br>
+                • 16h30 - Cérémonie 💍<br>
                 • 17h30 - Cocktail 🥂 + photos de groupe 📷<br>
                 • 20h - Dîner 🍽️<br>
                 • 22h - Soirée dansante 🕺🏻
