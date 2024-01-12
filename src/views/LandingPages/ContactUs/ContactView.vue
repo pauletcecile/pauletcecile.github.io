@@ -13,6 +13,7 @@ import image from "@/assets/img/illustrations/illustration-signin.jpg";
 import MaterialInput from "@/components/MaterialInput.vue";
 import MaterialTextArea from "@/components/MaterialTextArea.vue";
 import MaterialButton from "@/components/MaterialButton.vue";
+import pauletcecile from "@/assets/img/site/pauletcecile.png";
 
 // material-input
 import setMaterialInput from "@/assets/js/material-input";
@@ -33,7 +34,8 @@ onMounted(() => {
       class="page-header align-items-start min-vh-100"
       :style="{
         backgroundImage:
-          'url(https://drive.google.com/uc?export=view&id=1GWo7dTKxnLG3V8tAYvptwy_gugNOqPkh)'
+          //'url(https://drive.google.com/uc?export=view&id=1GWo7dTKxnLG3V8tAYvptwy_gugNOqPkh)'
+          `url(${pauletcecile})`
       }"
       loading="lazy"
     >

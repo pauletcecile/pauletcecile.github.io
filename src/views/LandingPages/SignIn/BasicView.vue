@@ -9,6 +9,7 @@ import Header from "@/examples/Header.vue";
 import MaterialInput from "@/components/MaterialInput.vue";
 import MaterialSwitch from "@/components/MaterialSwitch.vue";
 import MaterialButton from "@/components/MaterialButton.vue";
+import ilhagrande from "@/assets/img/site/ilhagrande.jpg";
 
 // material-input
 import setMaterialInput from "@/assets/js/material-input";
@@ -23,7 +24,8 @@ onMounted(() => {
       class="page-header align-items-start min-vh-100"
       :style="{
         backgroundImage:
-          'url(https://drive.google.com/uc?export=view&id=1f3MkU_gH0E8E20gdshKnv4642-feyT6n)'
+          //'url(https://drive.google.com/uc?export=view&id=1f3MkU_gH0E8E20gdshKnv4642-feyT6n)'
+          `url(${ilhagrande})`
       }"
       loading="lazy"
     >

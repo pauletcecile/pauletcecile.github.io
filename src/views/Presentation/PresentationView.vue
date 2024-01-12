@@ -28,6 +28,7 @@ import logoVue from "@/assets/img/logos/vue.jpg";
 import logoAngular from "@/assets/img/logos/angular.jpg";
 import logoReact from "@/assets/img/logos/react.jpg";
 import logoSketch from "@/assets/img/logos/sketch.jpg";
+import troplake from "@/assets/img/site/troplake.jpg";
 
 //hooks
 const body = document.getElementsByTagName("body")[0];
@@ -53,7 +54,11 @@ onUnmounted(() => {
   <Header>
     <div
       class="page-header min-vh-75"
-      :style="`background-image: url(https://drive.google.com/uc?export=view&id=177cayqBZ8y5EJYF5pCE7U3qh_OC16amf)  `"
+      :style="{
+        backgroundImage:
+          //'url(https://drive.google.com/uc?export=view&id=1_KTAMz2S8_1nYY1yXJShgW4lKm3J5upm)'
+          `url(${troplake})`
+      }"
       loading="lazy"
     >
       <div  class="container">
