@@ -63,7 +63,7 @@ onMounted(() => {
                 <br>
                 <h5>Dimanche 16 juin</h5>
                 Chez Pierre et Florence Duquesnoy<br>
-                • 12h - Brunch
+                • 11h30 - Brunch
               </div>
             </div>
           </div>
