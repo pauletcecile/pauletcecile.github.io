@@ -42,7 +42,7 @@ onMounted(() => {
               <h4 class="mb-0">Où est prévu le brunch le dimanche 16 juin ?</h4>
               <p class="text-lg mb-0">
                 Très bonne question ;) !<br>
-                Nous vous accueillons le lendemain matin à partir de 12h chez Pierre et Florence Duquesnoy au <a href="https://maps.app.goo.gl/vcDW9yzEZFxokM7v9" target="_blank">89 allée Saint Trophime, 83700 Saint-Raphael</a> pour se remettre ensemble doucement de la veille. <br>
+                Nous vous accueillons le lendemain matin à partir de 11h30 chez Pierre et Florence Duquesnoy au <a href="https://maps.app.goo.gl/vcDW9yzEZFxokM7v9" target="_blank">89 allée Saint Trophime, 83700 Saint-Raphael</a> pour se remettre ensemble doucement de la veille. <br>
                 Il y aura une piscine sur place : prévoyez votre maillot de bain et serviette !
               </p>
               <br>
